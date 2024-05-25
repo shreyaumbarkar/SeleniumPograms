@@ -1,5 +1,4 @@
 package mypkg2;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -18,7 +17,7 @@ public class AutomateToolqa {
 	lastname.sendKeys("Umbarkar");
 	WebElement useremail= driver.findElement(By.xpath("//input[@id=\"userEmail\"]"));
 	useremail.sendKeys("shreyaumbarkar2307@gmail.com");
-	driver.findElement(By.xpath("//div[text()='Gender']/../div/div[2]")).click();
+	//driver.findElement(By.xpath("//input[@id=\"gender-radio-2\"]")).click();
 	
 	WebElement mobilenumber= driver.findElement(By.xpath("//input[@id=\"userNumber\"]"));
 	mobilenumber.sendKeys("7058596420");
