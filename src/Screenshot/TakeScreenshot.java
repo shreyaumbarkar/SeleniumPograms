@@ -1,4 +1,4 @@
-package mypkg2;
+package Screenshot;
 
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;

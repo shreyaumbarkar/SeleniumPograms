@@ -1,4 +1,4 @@
-package mypkg2;
+package UploadFileSelenium;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

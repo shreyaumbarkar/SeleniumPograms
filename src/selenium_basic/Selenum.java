@@ -1,4 +1,4 @@
-package mypkg2;
+package selenium_basic;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 public class Selenum {
